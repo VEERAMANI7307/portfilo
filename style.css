@@ -1,0 +1,74 @@
+ul li{
+    list-style: none;
+    display: inline;
+    margin: 0 15px; 
+}
+.navbar{
+    display: flex;
+    align-items: center;
+}
+.name{
+    color: red;
+    font-size: 20px;
+    margin-left: 20px;
+}
+*{
+    background-color: rgb(4, 4, 66);
+}
+nav{
+    margin-left: 50%;
+    color: white;
+    font-size: medium;
+
+}
+.welcome{
+    color: red;
+}
+.p{
+    color: white;
+}
+.web{
+    color: white;
+}
+i{
+    color: red;
+    font-size: 20px;
+    border-radius: 50%;
+    border:2px solid red;
+    padding: 5px;
+    margin-left: 5px;
+    background-color: white;
+}
+.home{
+    display: flex;
+    padding-top: 30px;
+}
+.one{
+   width: 50%;
+   padding-left: 40px;
+    
+}
+.two{
+    width: 50%;
+}
+.section-box{
+    display: flex;
+}
+.three{
+    width: 50%;
+}
+.four{
+    width: 50%;
+    color: white;
+}
+img{
+    padding-left: 170px;
+}
+button{
+    background-color:red;
+    padding: 5px;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
